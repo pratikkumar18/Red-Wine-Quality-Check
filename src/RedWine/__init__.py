@@ -19,4 +19,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("Red Wine Logger")
+logger = logging.getLogger("RedWine Logger")
